@@ -1,34 +1,38 @@
 <h1 align="center">Hi 👋, I'm Omar Derdare</h1>
 
 <h3 align="center">
-Full Stack Developer | PHP & Laravel | React & Node.js
+Full Stack Developer • PHP • Laravel • JavaScript • React • Node.js
 </h3>
 
 <p align="center">
-  I build modern, responsive and high-performance web applications.
+I build modern, responsive and scalable web applications from database to deployment.
 </p>
 
 <p align="center">
-  <a href="https://github.com/oderdare-star">
-    <img src="https://img.shields.io/github/followers/oderdare-star?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/omar-derdare">
+    <img src="https://img.shields.io/github/followers/omar-derdare?label=Followers&style=for-the-badge" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=oderdare-star&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=omar-derdare&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer passionate about building modern web applications.
-- 🚀 Working with PHP, Laravel, JavaScript, React and Node.js.
-- 🗄️ Experience with MySQL and MongoDB.
-- 📚 Currently improving my skills in modern web development.
-- 🌍 Open to remote opportunities and interesting projects.
+I'm a Full Stack Developer focused on building complete web solutions.
+
+* 💻 Full Stack Web Development
+* ⚙️ Backend & REST APIs
+* 🗄️ Database design and management
+* 🔐 Authentication & admin dashboards
+* 🛒 E-commerce solutions
+* 📱 Responsive and modern interfaces
+* 🚀 Deployment, Docker & server environments
+* 🌍 Open to remote opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 
@@ -39,54 +43,89 @@ Full Stack Developer | PHP & Laravel | React & Node.js
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
 </p>
 
-### Database & Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
-A modern e-commerce platform with product management, categories, orders and an admin dashboard.
+### 🛍️ LUXE — Clothing E-Commerce
 
-**Tech:** PHP, MySQL, JavaScript
+A premium e-commerce platform built with a focus on modern UI, product management, shopping experience and an administration dashboard.
 
-🔗 https://github.com/oderdare-star
+**Stack:** PHP • JavaScript • SQL • HTML • CSS
+
+🌐 **Live Demo:**
+https://luxe-clothing-by-omar.freedev.app/
 
 ---
 
-### 🏨 Management System
-A complete management platform with an admin dashboard and database integration.
+### 🚗 Car Reservation Platform
 
-**Tech:** PHP, MySQL, JavaScript
+A responsive car reservation application allowing users to browse vehicles and make reservations through a modern interface.
 
-🔗 https://github.com/oderdare-star
+**Stack:** React • JavaScript • HTML • CSS
+
+🌐 **Live Demo:**
+https://react-car-reservation-app.vercel.app/
+
+---
+
+### 🏗️ Construction Website
+
+A professional responsive website designed for a construction business, focused on services, projects and lead generation.
+
+**Stack:** Tailwind CSS • JavaScript
+
+🌐 **Live Demo:**
+https://counstractor.vercel.app/
 
 ---
 
 ### 💎 Noryane Marbre
-Professional website for a marble renovation and cleaning company.
 
-**Tech:** PHP, JavaScript, MySQL, SEO
+A professional business website for marble renovation, polishing, crystallization and cleaning services.
 
-🌐 https://noryanemarbre.ma
+**Stack:** PHP • JavaScript • MySQL • SEO
+
+🌐 **Website:**
+https://noryanemarbre.ma/
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oderdare-star&show_icons=true&theme=transparent" />
+
+<a href="https://protfolio-fwc8.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderdare-star&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
@@ -94,21 +133,39 @@ Professional website for a marble renovation and cleaning company.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oderdare-star&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=omar-derdare&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contribution Activity
 
-<p>
-<a href="https://github.com/oderdare-star">
-  <img src="https://skillicons.dev/icons?i=github" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-derdare&hide_border=true&theme=github-compact" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/omar-derdare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://protfolio-fwc8.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and check out my projects!
+💡 <strong>Building ideas into real-world web applications.</strong>
+</p>
+
+<p align="center">
+⭐ Feel free to explore my repositories and projects.
 </p>
