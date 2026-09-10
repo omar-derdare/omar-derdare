@@ -118,17 +118,7 @@ https://noryanemarbre.ma/
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -169,3 +159,47 @@ https://noryanemarbre.ma/
 <p align="center">
 ⭐ Feel free to explore my repositories and projects.
 </p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Omar's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-derdare&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🤝 Contact Me
+
+<p align="center">
+
+<a href="https://wa.me/212625696374">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="tel:+212625696374">
+  <img src="https://img.shields.io/badge/Phone-%2B212%20625%20696%20374-000000?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
+<a href="mailto:oderdare@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  📱 <strong>+212 625 696 374</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📧 <strong>oderdare@gmail.com</strong>
+</p>
+
