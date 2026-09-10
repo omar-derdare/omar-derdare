@@ -61,12 +61,29 @@ I'm a Full Stack Developer focused on building complete web solutions, end to en
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🛍️ **LUXE — Clothing E-Commerce** | Premium e-commerce platform with product management, shopping experience, and an admin dashboard. | PHP • JavaScript • SQL • HTML • CSS | [Live Demo](https://luxe-clothing-by-omar.freedev.app/) |
-| 🚗 **Car Reservation Platform** | Responsive app for browsing vehicles and making reservations through a modern interface. | React • JavaScript • HTML • CSS | [Live Demo](https://react-car-reservation-app.vercel.app/) |
-| 🏗️ **Construction Website** | Professional responsive site for a construction business, built for lead generation. | Tailwind CSS • JavaScript | [Live Demo](https://counstractor.vercel.app/) |
-| 💎 **Noryane Marbre** | Business website for marble renovation, polishing, crystallization and cleaning services. | PHP • JavaScript • MySQL • SEO | [Website](https://noryanemarbre.ma/) |
+### 🛍️ LUXE — Clothing E-Commerce
+Premium e-commerce platform built with a focus on modern UI, product management, shopping experience and an administration dashboard.
+
+**Stack:** PHP • JavaScript • SQL • HTML • CSS
+🌐 **Live Demo:** [luxe-clothing-by-omar.freedev.app](https://luxe-clothing-by-omar.freedev.app/)
+
+### 🚗 Car Reservation Platform
+Responsive car reservation application allowing users to browse vehicles and make reservations through a modern interface.
+
+**Stack:** React • JavaScript • HTML • CSS
+🌐 **Live Demo:** [react-car-reservation-app.vercel.app](https://react-car-reservation-app.vercel.app/)
+
+### 🏗️ Construction Website
+Professional responsive website designed for a construction business, focused on services, projects and lead generation.
+
+**Stack:** Tailwind CSS • JavaScript
+🌐 **Live Demo:** [counstractor.vercel.app](https://counstractor.vercel.app/)
+
+### 💎 Noryane Marbre
+Professional business website for marble renovation, polishing, crystallization and cleaning services.
+
+**Stack:** PHP • JavaScript • MySQL • SEO
+🌐 **Website:** [noryanemarbre.ma](https://noryanemarbre.ma/)
 
 📂 More projects on my [Portfolio](https://protfolio-fwc8.vercel.app/) and [GitHub](https://github.com/omar-derdare?tab=repositories).
 
@@ -75,8 +92,11 @@ I'm a Full Stack Developer focused on building complete web solutions, end to en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Omar Derdare GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Omar Derdare GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
