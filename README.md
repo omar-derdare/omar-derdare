@@ -91,21 +91,13 @@ Professional business website for marble renovation, polishing, crystallization 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Omar Derdare GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omar-derdare&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-derdare&hide_border=true&theme=tokyo-night" alt="Omar Derdare GitHub Activity" />
-</p>
+
 
 ---
 
