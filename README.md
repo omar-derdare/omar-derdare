@@ -162,11 +162,17 @@ https://noryanemarbre.ma/
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Omar's GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=omar-derdare&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    alt="Omar Derdare GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-derdare&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -174,8 +180,15 @@ https://noryanemarbre.ma/
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-derdare&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omar-derdare&theme=tokyo-night"
+    alt="Omar Derdare GitHub Activity"
+  />
 </p>
+
+
+
+---
 
 ---
 
