@@ -14,7 +14,7 @@ I build modern, responsive and scalable web applications — from database to de
 </p>
 
 <p align="center">
-  <a href="https://protfolio-fwc8.vercel.app/">
+  <a href="https://omarstack.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://wa.me/212625696374">
